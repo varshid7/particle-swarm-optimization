@@ -63,7 +63,7 @@ The script will also display a plot showing how the "Best Objective Value" (the 
 
 ![PSO Convergence Curve](pso_convergence_curve.png)
 
-*(This is an example plot. You will need to save your own `convergence_plot.png` from the script's output and add it to your repo.)*
+*(This is an example plot. You will need to save your own `pso_convergence_curve.png` from the script's output and add it to your repo.)*
 
 ## 🧠 How It Works
 
