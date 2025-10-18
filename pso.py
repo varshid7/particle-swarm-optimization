@@ -61,5 +61,6 @@ plt.title("PSO Convergence Curve")
 plt.legend()
 plt.grid(True)
 plt.show()
-![Image Alt](https://github.com/varshid7/particle-swarm-optimization/blob/main/pso_convergence_curve.png)
+
+
 
