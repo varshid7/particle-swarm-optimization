@@ -1,7 +1,5 @@
 # Particle Swarm Optimization (PSO)
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A clean, lightweight Python implementation of the Particle Swarm Optimization (PSO) algorithm to find the global minimum of mathematical functions. This project is built from scratch using only **NumPy** for numerical operations and **Matplotlib** for visualization.
 
