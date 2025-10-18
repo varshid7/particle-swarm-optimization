@@ -57,7 +57,7 @@ Best Value: 4.1922e-24
 ```
 *(Note: Your exact values will vary due to the random initialization.)*
 
-###PSO Convergence Curve
+### PSO Convergence Curve
 
 The script will also display a plot showing how the "Best Objective Value" (the global best) decreases with each iteration. This visualizes the swarm "converging" on the optimal solution.
 
