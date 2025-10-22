@@ -3,7 +3,7 @@
 
 A clean, lightweight Python implementation of the Particle Swarm Optimization (PSO) algorithm to find the global minimum of mathematical functions. This project is built from scratch using only **NumPy** for numerical operations and **Matplotlib** for visualization.
 
-## 🎯 About the Project
+##  About the Project
 
 Particle Swarm Optimization (PSO) is a computational method inspired by the social behavior of bird flocking or fish schooling. It's a metaheuristic algorithm, meaning it can find a good-enough solution to a complex problem in a reasonable amount of time, especially for problems where a precise, traditional method is too slow or impossible.
 
@@ -15,14 +15,14 @@ This repository provides a simple, well-commented implementation of PSO. It's se
 * **Visualized:** Includes code to plot the convergence curve using **Matplotlib**, showing how the algorithm's best solution improves over iterations.
 * **Customizable:** Key parameters (swarm size, iterations, cognitive/social weights) are easy to modify.
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 To run this project, you will need:
 * Python 3.7+
 * NumPy
 * Matplotlib
 
-## ⚙️ Installation & Usage
+## ⚙️Installation & Usage
 
 1.  **Clone the repository:**
     ```bash
@@ -41,7 +41,7 @@ To run this project, you will need:
     python pso.py
     ```
 
-## 📊 Example Output
+## Example Output
 
 Running the script will print the final best solution found by the algorithm and display a convergence plot.
 
@@ -63,7 +63,7 @@ The script will also display a plot showing how the "Best Objective Value" (the 
 
 *(This is an example plot. You will need to save your own `pso_convergence_curve.png` from the script's output and add it to your repo.)*
 
-## 🧠 How It Works
+## How It Works
 
 The algorithm's core logic is based on two simple equations that are applied to each particle in the swarm at every iteration.
 
@@ -80,7 +80,7 @@ The algorithm's core logic is based on two simple equations that are applied to 
 
 The process is repeated for a set number of iterations, allowing the swarm to explore the search space and gradually converge on the global minimum.
 
-## 🔧 Customization
+## Customization
 
 You can easily adapt this project by:
 
