@@ -15,14 +15,14 @@ This repository provides a simple, well-commented implementation of PSO. It's se
 * **Visualized:** Includes code to plot the convergence curve using **Matplotlib**, showing how the algorithm's best solution improves over iterations.
 * **Customizable:** Key parameters (swarm size, iterations, cognitive/social weights) are easy to modify.
 
-##  Prerequisites
+## Prerequisites
 
 To run this project, you will need:
 * Python 3.7+
 * NumPy
 * Matplotlib
 
-## ⚙️Installation & Usage
+## Installation & Usage
 
 1.  **Clone the repository:**
     ```bash
